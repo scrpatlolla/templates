@@ -1,2 +1,2 @@
 # templates
-Document templates for open-source projects (README, CONTRIBUTING, GitHub templates)
+Document templates for open-source projcts (README, CONTRIBUTING, GitHub templates)
